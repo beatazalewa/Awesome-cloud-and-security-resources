@@ -29,4 +29,4 @@
         - Enforce privacy mode
         - OpenAI/Anthropic zero-data retention
 
-    ![The AI Code Editor](https://github.com/beatazalewa/Awesome-AI-and-security-resources/Images/the_ai_code_editor.png)
+    ![The AI Code Editor](https://github.com/beatazalewa/Awesome-AI-and-security-resources/blob/dev/Images/the_ai_code_editor.png)
