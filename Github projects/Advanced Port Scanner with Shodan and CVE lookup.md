@@ -9,4 +9,4 @@ This is an advanced asynchronous port scanner written in Python. It scans a targ
 - **Optional Shodan integration**: Retrieves additional host data from Shodan.
 - **Report generation**: Produces reports in both JSON and HTML formats.
 
-**Link to Github repo**: [https://github.com/chrispl89/port_scanner/](https://github.com/chrispl89/port_scanner/)
+**Link to Github repo**: [https://github.com/chrispl89/port_scanner/](https://github.com/chrispl89/port_scanneru/)

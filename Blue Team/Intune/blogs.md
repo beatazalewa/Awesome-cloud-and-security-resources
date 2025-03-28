@@ -1,6 +1,4 @@
-# Beata Zalewa
-
-## Blogs about Microsoft Intune
+# Blogs about Microsoft Intune
 
 1. Microsoft Official product documentation for Microsoft Intune - [https://learn.microsoft.com/en-us/mem/intune-service/](https://learn.microsoft.com/en-us/mem/intune-service/)
 
