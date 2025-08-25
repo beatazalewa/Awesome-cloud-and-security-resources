@@ -27,7 +27,4 @@
 
 13. SyStandDeploy by Damien Van Robaeys - [link](https://www.systanddeploy.com/) 
 
-14. Managing Microsoft Defender for Endpoint with the new Security Management feature in MEM/Intune - [link](https://jeffreyappel.nl/managing-microsoft-defender-for-endpoint-with-the-new-security-management-feature-in-mem/) 
-
-15. Not The Hidden Wiki - [link](https://github.com/notthehiddenwiki/NTHW)
- 
+14. Managing Microsoft Defender for Endpoint with the new Security Management feature in MEM/Intune - [link](https://jeffreyappel.nl/managing-microsoft-defender-for-endpoint-with-the-new-security-management-feature-in-mem/)

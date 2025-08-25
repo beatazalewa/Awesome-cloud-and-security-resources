@@ -1,8 +1,8 @@
-# Data and AI Platform
+## Data and AI Platform
 
 The Data & AI Platform repository offers a comprehensive suite of tools and resources for deploying and configuring essential Azure services. It orchestrates the creation of a modern enterprise data and AI estate, primed to power your AI applications and deliver rapid value. Hundreds of customers have utilized this platform to build a unified data and AI infrastructure, accelerating their AI transformation.
 
-It includes:
+### Features
 
 - Bicep templates and parameter files for each of the primary Data & AI Platform components. AVM bicep modules now being integrated!
 - GitHub Actions enabling rapid deployment of code artifacts.
@@ -17,4 +17,4 @@ The repository currently supports three data platforms:
 - Azure Databricks & Unity Catalog
 - Microsoft Fabric Capacity deployment (additional Fabric automation and configuration (CI/CD) forthcoming)
 
-**Link to Github repo**: [https://github.com/microsoft/Data-and-AI-Platform/](https://github.com/microsoft/Data-and-AI-Platform/)
+**Link to Github repo**: [link](https://github.com/microsoft/Data-and-AI-Platform/)
